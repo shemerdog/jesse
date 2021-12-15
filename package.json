@@ -1,0 +1,16 @@
+{
+  "name": "jesse",
+  "version": "1.0.0",
+  "description": "Server for Jesse app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha -G --recursive **/test"
+  },
+  "type": "module",
+  "author": "Shemer Dog",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

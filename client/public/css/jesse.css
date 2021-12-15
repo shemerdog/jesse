@@ -1,0 +1,20 @@
+body {
+    font: 14px "Century Gothic", Futura, sans-serif;
+    margin: 20px;
+  }
+  
+.profiles {
+    background: aliceblue;
+    margin: auto;
+    max-width: 500px;
+}
+
+.profile {
+    padding: 5%;
+}
+
+.meal-paper {
+    height: 340px;
+    width: 340px;
+    padding: 5%;
+}
